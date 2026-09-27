@@ -1,0 +1,78 @@
+{
+  "project": "SourceRoots",
+  "rubric_version": "sourceroots-controlled-text-0.1",
+  "environment_label": "GenLayer Studio",
+  "studio_url": "https://studio.genlayer.com/",
+  "contract_address": "0x355913aD17b8317493b77A6f92C19C73567e1897",
+  "address_source": "Supplied by owner in the project conversation",
+  "observation_date": "2026-09-27",
+  "execution_mode_observed": "Normal (Full Consensus)",
+  "simulation_mode_observed": false,
+  "read_state_observed": "Accepted",
+  "evidence_basis": "Owner-provided screenshots reviewed in the project conversation; screenshot files are not included in this package.",
+  "independent_rpc_verification": false,
+  "deployed_source_comparison_performed": false,
+  "deployment_transaction_hash": null,
+  "packaged_source_file": "sourceroots.py",
+  "packaged_source_sha256": "71a282904c801610c94c67d954c60572c40febc4f0ce6c5f710eda3c524878bc",
+  "source_note": "Original supplied prototype bytes preserved; opening comments describe the pre-deployment checkpoint.",
+  "observed_results": [
+    {
+      "case_id": 1,
+      "result_id": 0,
+      "processing_status": "ASSESSED",
+      "status": "SHARED_ORIGIN",
+      "eligible_for_review": false
+    },
+    {
+      "case_id": 2,
+      "result_id": 1,
+      "processing_status": "ASSESSED",
+      "status": "SEPARATE_ORIGINS_DOCUMENTED",
+      "eligible_for_review": true
+    },
+    {
+      "case_id": 3,
+      "result_id": 2,
+      "processing_status": "ASSESSED",
+      "status": "UNRESOLVED",
+      "eligible_for_review": false
+    },
+    {
+      "case_id": 4,
+      "result_id": 3,
+      "processing_status": "ASSESSED",
+      "status": "UNRESOLVED",
+      "eligible_for_review": false
+    },
+    {
+      "case_id": 5,
+      "result_id": 4,
+      "processing_status": "ASSESSED",
+      "status": "SHARED_ORIGIN",
+      "eligible_for_review": false
+    },
+    {
+      "case_id": 6,
+      "result_id": 5,
+      "processing_status": "INCOMPLETE",
+      "status": "UNRESOLVED",
+      "eligible_for_review": false
+    },
+    {
+      "case_id": 7,
+      "result_id": 6,
+      "processing_status": "ASSESSED",
+      "status": "SHARED_ORIGIN",
+      "eligible_for_review": false
+    },
+    {
+      "case_id": 8,
+      "result_id": 7,
+      "processing_status": "ASSESSED",
+      "status": "SEPARATE_ORIGINS_DOCUMENTED",
+      "eligible_for_review": true
+    }
+  ],
+  "limitation": "Controlled submitted text only; not source authentication, factual verification, hidden-independence proof, or publication approval."
+}
